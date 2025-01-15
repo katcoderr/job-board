@@ -42,3 +42,4 @@ npm start
 ```
 
 The server will start on the specified port (`PORT` from `.env`).
+Access API Docs at `localhost:PORT/api-docs`
